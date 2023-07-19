@@ -1,0 +1,22 @@
+{
+  "name": "readfile_write_file",
+  "version": "1.0.1",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Ayubxon0711",
+  "license": "ISC",
+  "description": "read_and_write",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ayubxon200811/readfile_write.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Ayubxon200811/readfile_write/issues"
+  },
+  "homepage": "https://github.com/Ayubxon200811/readfile_write#readme"
+}
